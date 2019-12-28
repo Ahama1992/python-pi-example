@@ -1,6 +1,8 @@
 
 def main(message):
 
+    // This comment is when I started using version control in pycharm.
+
 // This was the conflict, pretty neat ey!
 <<< HEAD
     // This comment however is from pi dir
