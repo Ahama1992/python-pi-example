@@ -1,6 +1,8 @@
 
 def main(message):
 
+// This is from master branch from pi2/ dir
+
 // This was the conflict, pretty neat ey!
 <<< HEAD
     // This comment however is from pi dir
