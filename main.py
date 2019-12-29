@@ -1,7 +1,7 @@
 
 def main(message):
 
-    // This comment is from ver2.0
+    # This comment is from ver2.0
     print(message)
 
 def second():
